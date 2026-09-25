@@ -165,3 +165,160 @@ Debugger
 Coder
    ↓
 Tester
+
+The system explores how AI agents can reason about repositories, generate code, test implementations, debug failures, and interact with GitHub-based development workflows.
+
+Key Capabilities
+🧠 AI-based software planning
+💻 Automated code generation
+🧪 Automated testing
+🐛 Debugging workflow
+🔄 Iterative code improvement
+🗂️ Repository-aware development
+🔗 GitHub integration
+🔧 MCP-based tool interaction
+
+Tech: Python FastAPI LangGraph LLMs GitHub MCP
+
+🛒 ShopNest — Full Stack E-Commerce Platform
+
+A complete full-stack e-commerce web application built to demonstrate practical MERN-style web development, authentication, backend APIs, database integration, and e-commerce workflows.
+
+Tech: HTML CSS JavaScript Node.js Express.js MongoDB MongoDB Atlas JWT Bcrypt Nodemailer
+
+Key Features
+🛍️ Product browsing
+🔎 Product management
+🛒 Shopping cart
+❤️ Wishlist
+🔐 User authentication
+🔑 JWT-based authorization
+💳 Checkout workflow
+👨‍💼 Admin functionality
+📦 Product management
+📧 Email integration
+🗄️ MongoDB database
+🔒 Password hashing with Bcrypt
+🌐 RESTful backend APIs
+Project Focus
+
+ShopNest demonstrates my ability to build a complete web application across the frontend, backend, database, authentication, and deployment layers.
+
+🌐 Live Website
+
+🧠 What I'm Currently Building
+
+I'm currently focusing on the intersection of Software Engineering and Artificial Intelligence.
+
+Full Stack Development
+        +
+Generative AI
+        +
+Large Language Models
+        +
+Agentic AI
+        +
+LangGraph
+        +
+AI Automation
+        +
+AI Governance
+        ↓
+Reliable AI Software Systems
+Areas I'm Exploring
+🤖 Agentic AI
+🧩 Multi-Agent Systems
+🔗 LangChain & LangGraph
+🧠 RAG Systems
+🔧 AI Tool Use & MCP
+👨‍💻 AI Software Engineering Agents
+🛡️ AI Governance
+👤 Human-in-the-Loop AI
+🔐 Reliable & Trustworthy AI
+⚙️ AI Automation
+🧪 AI Evaluation & Testing
+🔬 Research Interests
+
+I'm interested in researching how autonomous AI systems can become more reliable, controllable, transparent, and accountable when deployed in real-world environments.
+
+Current Research Direction
+Governance in Agentic AI Systems
+Areas of Interest
+Runtime governance
+Human oversight
+Interruptibility
+Accountability
+Agent authorization
+Risk-aware decision making
+Human-in-the-loop mechanisms
+AI system control
+Reliable multi-agent systems
+Agent monitoring and evaluation
+Safe tool usage
+
+My goal is to combine academic research with practical implementations, developing systems that can demonstrate research ideas in real software environments.
+
+💼 Professional Experience
+DeveloperHub Corporation
+Frontend & Full Stack Developer Intern
+
+Feb 2026 – Jul 2026 · Remote
+
+Worked across frontend and full-stack development during the internship.
+
+First 3 Months — Frontend Development
+
+Built and improved responsive web interfaces
+Worked with modern frontend technologies
+Implemented reusable UI components
+Integrated frontend applications with APIs
+
+Next 3 Months — Full Stack Development
+
+Worked on full-stack web applications
+Developed backend functionality and APIs
+Integrated databases with web applications
+Worked on e-commerce and business-oriented websites
+Implemented frontend-backend communication
+🎓 Education
+Iqra University
+
+BS Software Engineering
+
+2024 – 2028
+
+Academic Interests
+Software Engineering
+Artificial Intelligence
+Generative AI
+Agentic AI
+Software Architecture
+Distributed Systems
+AI Systems
+Intelligent Automation
+🏆 Certification & Learning
+🎓 GitHub Workshop — Iqra University
+📚 Continuous learning in Generative AI
+🤖 Continuous learning in Agentic AI
+🔗 LangChain & LangGraph experimentation
+🔬 Independent AI research and experimentation
+🧠 AI Agent architecture and automation
+📊 GitHub Statistics
+
+🔥 GitHub Streak
+
+💻 Most Used Languages
+
+📈 GitHub Contribution Graph
+
+🏆 GitHub Profile Trophies
+
+👀 Profile Views
+
+🌐 Connect With Me
+
+🎯 Career Goal
+
+Build intelligent software systems that combine strong software engineering with reliable and responsible AI.
+
+I'm continuously building projects, learning new technologies, conducting research, and exploring opportunities where I can contribute to the future of AI-powered software engineering and Agentic AI systems.
